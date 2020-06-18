@@ -1,0 +1,10 @@
+broadcastMessage:
+  - "&a---------------------------------------"
+  - "          &6{mob-type} was killed!"
+  - " "
+  - "&e1st-Damager &7- {firstPlace} &7- &6{firstPlace_damage}"
+  - "&62st-Damager &7- {secondPlace} &7- &6{secondPlace_damage}"
+  - "&c3st-Damager &7- {thirdPlace} &7- &6{thirdPlace_damage}"
+  - " "
+  - "&6Your damage &6{damage}. (&7You position &6{position})"  
+  - "&a----------------------------------------"
